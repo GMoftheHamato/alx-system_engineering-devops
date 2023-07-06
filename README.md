@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell
+Not that easy
