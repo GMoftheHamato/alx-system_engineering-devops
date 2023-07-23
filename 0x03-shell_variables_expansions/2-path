@@ -1,2 +1,2 @@
 #!/bin/bash
-exxport PATH=$PATH:\action
+exxport PATH=$PATH:/action
